@@ -1,0 +1,29 @@
+*{
+    font-family: arial, sans-serif;
+}
+body{
+    background: rgb(68, 66, 66);
+    text-align: center;
+}
+form{
+    margin-bottom: 20px;
+}
+input{
+    margin: 5px;
+    padding: 5px;
+}
+button{
+    background:#d41872;
+    background: -webkit-linear-gradient(left, #45b266, #37d418, #9efa42);
+    color: white;
+    border: transparent;
+    font-size: 18px;
+    border-radius: 5px;
+    min-width: 160px;
+    height: 42px;
+    margin: 32px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
